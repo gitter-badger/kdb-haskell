@@ -1,5 +1,6 @@
 kdb-haskell
 ===========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jkozlowski/kdb-haskell?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://travis-ci.org/jkozlowski/kdb-haskell.svg?branch=master)](https://travis-ci.org/jkozlowski/kdb-haskell)
 [![Coverage Status](https://coveralls.io/repos/jkozlowski/kdb-haskell/badge.png)](https://coveralls.io/r/jkozlowski/kdb-haskell)
